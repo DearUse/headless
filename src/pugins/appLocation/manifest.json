@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "name": "user.advenceGriad",
+    "description":"description",
+    "contributes": {
+        "header": {
+            "custromer.render": "custromer.render"
+        },
+        "topActions":{
+            "custromer.render": "custromer.render"
+        }
+    },
+    "commander": {
+        "appLocation.form.created": "appLocation.form.created.onSuccess"
+    },
+    "lifecycle": {
+        "onAppReard": "onAppReard"
+    },
+    "dependencies": []
+}

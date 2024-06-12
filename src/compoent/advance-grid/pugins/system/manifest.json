@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "name": "advenceGriad",
+    "description":"description",
+    "commander": {
+        "appLocation.form.created": "appLocation.form.created.onSuccess"
+    },
+    "lifecycle": {
+        "onDomRender": "onDomRender"
+    },
+    "dependencies": []
+}
